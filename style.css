@@ -1,6 +1,20 @@
 #secao1{
 	background-color: red;
+	width: 300px;
+	height: 150px;
 }
 #secao2{
+	position: relative;
 	background-color: blue;
+	width: 300px;
+	height: 150px;
+	left: 40%;
+	
+}
+#secao3{
+	position: relative;
+	background-color: yellow;
+	width: 300px;
+	height: 150px;
+	left: 78%;
 }
